@@ -18,8 +18,6 @@ public class Inheritance {
 		obj.display();
 		A fun = new A ();
 		fun.display();
-	
-
 	}
 
 }
